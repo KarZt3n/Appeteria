@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238189634784",
+    "firebase_url": "https://appeteria-37e12-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "appeteria-37e12",
+    "storage_bucket": "appeteria-37e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238189634784:android:6f39c16c2e6f28d0931c85",
+        "android_client_info": {
+          "package_name": "de.appeteria.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238189634784-nk9tubclen01lia1d5mtuuh7eatm745c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcLtaRAHnFvv0AHkgyVy6QwYCcURciHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238189634784-nk9tubclen01lia1d5mtuuh7eatm745c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

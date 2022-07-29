@@ -1,0 +1,4 @@
+.project
+server/node_modules/
+client/node_modules/
+client/node_modules/cache/.eslintcache

@@ -1,0 +1,27 @@
+{
+  "short_name": "Appeteria",
+  "name": "Appeteria",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "rgb(13, 71, 161)",
+  "background_color": "rgb(13, 71, 161)",
+  "Scope": "/",
+  "start_url": ".",
+  "display": "standalone",
+  "splash_pages": null
+}
